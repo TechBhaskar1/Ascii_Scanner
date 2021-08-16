@@ -1,0 +1,42 @@
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p1{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius: 30px;
+}
+#p2{
+    width: 180px;
+    height: 90px;
+    background-color: orange;
+    text-align:center;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius: 30px;
+}
+#p3{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    padding-top: 25px;
+    margin-top: -10;
+}
+#myCanvas{
+    border: 15px ridge gray;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+#NOTE{
+    font-size: 25px;
+    margin-top:-50px;
+}
+#NOTE2{
+    color: red;
+    font-weight: bolder;
+    margin-left: -350px;
+    font-size: 25px;
+}
